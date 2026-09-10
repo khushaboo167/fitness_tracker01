@@ -33,5 +33,8 @@ flutter:
 flutter_launcher_icons:
   android: true
   ios: false
-  image_path: "assets/images/fitness_logo.png"
+
   adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/fitness_logo.png"
+
+  min_sdk_android: 21
